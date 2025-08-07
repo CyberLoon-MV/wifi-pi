@@ -2,7 +2,7 @@
 
 ```
 <p align="center">
-  <img src="images/assembled.jpg" width="400" alt="wifi-pi assembled">
+  ![wifi-pi assembled](images/assembled.jpg)
   <br><em>Assembled wifi-pi with 3D-printed case</em>
 </p>
 ```
