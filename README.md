@@ -1,11 +1,11 @@
 # **wifi-pi**
 
-```
+
 <p align="center">
-  ![wifi-pi assembled](images/assembled.jpg)
+  <img src="https://raw.githubusercontent.com/CyberLoon-MV/wifi-pi/main/images/assembled.jpg" width="400" alt="wifi-pi assembled">
   <br><em>Assembled wifi-pi with 3D-printed case</em>
 </p>
-```
+
 
 **wifi-pi** is a portable Raspberry Pi 4-based wireless testing platform. It supports rogue AP attacks, DNS interception, packet collection, and red team field ops. This repo includes all STL files to 3D print your own enclosure, configuration files, and setup guidance.
 
@@ -13,14 +13,14 @@
 
 ## **✅ System Setup**
 
-```
+
 <p align="center">
   <img src="images/exploded-top.jpg" width="350" alt="wifi-pi case top">
   <img src="images/exploded-bottom.jpg" width="350" alt="wifi-pi case bottom">
   <img src="images/exploded-batt.jpg" width="350" alt="wifi-pi case batt out">
   <br><em>Exploded view of the wifi-pi case components</em>
 </p>
-```
+
 
 - **Device**: Raspberry Pi 4
     
